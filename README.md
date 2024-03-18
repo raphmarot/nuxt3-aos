@@ -1,4 +1,4 @@
-# nuxt3-aos
+# nuxt3-aos3
 
 [![npm version][npm-version-src]][npm-version-href] [![npm downloads][npm-downloads-src]][npm-downloads-href] [![License][license-src]][license-href] [![Nuxt][nuxt-src]][nuxt-href]
 
@@ -7,17 +7,17 @@
 ### 1、Install
 
 ```bash
-npm install --save-dev nuxt3-aos
+npm install --save-dev nuxt3-aos3
 ```
 
 ### 2、Configuration
 
-**✅Add `nuxt3-aos` to the `modules` section of `nuxt.config.ts`**
+**✅Add `nuxt3-aos3` to the `modules` section of `nuxt.config.ts`**
 
 ```js
 export default defineNuxtConfig({
 	// ...
-	modules: ["nuxt3-aos"],
+	modules: ["nuxt3-aos3"],
 	// ...
 });
 ```
