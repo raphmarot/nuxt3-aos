@@ -6,7 +6,6 @@ export default defineNuxtPlugin(nuxtApp => {
 
 	nuxtApp.vueApp.directive("aos", {
 		created(el, binding) {
-			console.log(binding);
 			el.style.visibility = "hidden";
 			const delay = el.getAttribute("data-aos-delay");
 			const duration = el.getAttribute("data-aos-duration");
