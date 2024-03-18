@@ -1,7 +1,2 @@
-import * as _nuxt_schema from '@nuxt/schema';
-
-interface ModuleOptions {
-}
-declare const _default: _nuxt_schema.NuxtModule<ModuleOptions>;
-
-export { type ModuleOptions, _default as default };
+export * from "C:/dev/nuxt3-aos/src/module";
+export { default } from "C:/dev/nuxt3-aos/src/module";
